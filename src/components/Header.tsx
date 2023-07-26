@@ -7,16 +7,16 @@ const Header = () => {
         <img src="logo.png" alt="logotipo da doce aroma" className='w-16 h-16'/>
         <nav className='hidden sm:w-full sm:h-full sm:flex flex-row sm:items-center sm:justify-end sm:space-x-8'>
           <Link className='text-bege' href="/">
-          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover h-full'>Home</button>
+          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover focus:bg-marromedio h-full'>Home</button>
           </Link>
           <Link className='text-bege' href="/sobre">
-          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Sobre Nós</button>
+          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover focus:bg-marromedio '>Sobre Nós</button>
           </Link>
           <Link className='text-bege' href="/cardapio">
-          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Cardapio</button>
+          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover focus:bg-marromedio '>Cardapio</button>
           </Link>
           <Link className='text-bege' href="/contato">
-          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Contato</button>
+          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover focus:bg-marromedio'>Contato</button>
           </Link>
         </nav>
     </header>

@@ -6,7 +6,7 @@ import Carousel from 'react-bootstrap/Carousel';
             <div className='d-block h-700px p-30px'>
                 <Carousel >
                 <Carousel.Item>
-                    <img className="d-block h-80 w-full" src="cardapio.jpg" alt="" />
+                    <img className="d-block h-80 w-full" src="cardapio.jpg" alt="cardapio da aroma doce" />
                     <Carousel.Caption>
                     <h3>First slide label</h3>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
