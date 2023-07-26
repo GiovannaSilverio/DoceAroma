@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import React from 'react';
 
 const Header = () => {
@@ -7,7 +8,7 @@ const Header = () => {
         <nav className='w-full h-full flex flex-row justify-end space-x-8 '>
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover h-full'>Home</button>
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Sobre Nós</button>
-          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Cardápio</button>
+          <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Cardapio</button>
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Contato</button>
         </nav>
     </header>
