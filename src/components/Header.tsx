@@ -5,15 +5,19 @@ const Header = () => {
   return (
     <header className='flex w-full bg-marromescuro h-16 text-bege items-center px-10'>
         <img src="logo.png" alt="logotipo da doce aroma" className='w-16 h-16'/>
-        <nav className='w-full h-full flex flex-row justify-end space-x-8 '>
-          <Link href="/">
+        <nav className='hidden sm:w-full sm:h-full sm:flex flex-row sm:items-center sm:justify-end sm:space-x-8'>
+          <Link className='text-bege' href="/">
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover h-full'>Home</button>
           </Link>
-          <Link href="/sobre">
+          <Link className='text-bege' href="/sobre">
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Sobre Nós</button>
           </Link>
+          <Link className='text-bege' href="/cardapio">
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Cardapio</button>
+          </Link>
+          <Link className='text-bege' href="/contato">
           <button className='p-2 bg-marrromescuro hover:bg-marromescurohover '>Contato</button>
+          </Link>
         </nav>
     </header>
   );
