@@ -12,9 +12,11 @@ module.exports = {
         marromedio:'#5D2417',
         marromescuro:'#320000',
         marromescurohover:'#210505',
-        bege:'#FFD9AB'
+        bege:'#FFD9AB',
+        begehover:'#D9B891',
 
-      }    
+      },
+
     },
   },
   plugins: [],
