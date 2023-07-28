@@ -1,7 +1,7 @@
-const MenuCardapioData = [
+const CarDataDoce = [
     {
       id: 1,
-      name: 'Café',
+      name: 'DOCE',
       description: 'Descrição.',
       price: 15.99,
     },
@@ -19,5 +19,4 @@ const MenuCardapioData = [
     },
   ];
   
-  export default MenuCardapioData;
-  
+  export default CarDataDoce;
