@@ -17,6 +17,10 @@ module.exports = {
 
       },
 
+      fontFamily:{
+        'goth':['Century Gothic', 'sans-serif'],
+      }
+
     },
   },
   plugins: [],

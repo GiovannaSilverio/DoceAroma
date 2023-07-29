@@ -13,18 +13,18 @@ import Carousel from 'react-bootstrap/Carousel';
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img className="d-block h-80 w-full" src="frente.jpg" alt="" />
+                    <img className="d-block h-80 w-full" src="cafecarrossel.png" alt="" />
                     <Carousel.Caption>
-                    <h3>Second slide label</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3>Embalagens personalizadas</h3>
+                    <p>Produtos altamente instagramaveis</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <img className="d-block h-80 w-full" src="cardapio.jpg" alt="" />
+                    <img className="d-block h-80 w-full" src="cake.jpg" alt="" />
                     <Carousel.Caption>
-                    <h3>Third slide label</h3>
+                    <h3>Bolos Encantadores</h3>
                     <p>
-                        Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                        Bolos deliciosos para adoçar seus dias.
                     </p>
                     </Carousel.Caption>
                 </Carousel.Item>
