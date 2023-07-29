@@ -25,20 +25,18 @@ Uma das dificuldades encontradas elaborando este projeto foi a instalação do b
 Além disso, a inserção do Iframe do google maps também foi um pouco complexa mas da mesma forma que foi resolvida a questão do bootstrap também foi resolvida a do bootstrap.
 
 ## CARDAPIO:
-A pagina do Cardapio foi pensada como a pagina de um produto a ser atualizado por um admistrador da pagina que não tenha conhecimento em criação de site, foi separado em Datas(Bebidas, Doces, Salgados) para facilitar o administrador inserir ou remover, atualizar preço de forma simples, acessando somente a componente data ele podera fazer essas alterações.
+A pagina do Cardapio foi pensada como a pagina de um produto a ser atualizado por um admistrador da cafetria que não tenha conhecimento em criação de site, foi separado em Datas(Bebidas, Doces, Salgados) para facilitar o administrador inserir ou remover, atualizar preço de forma simples, acessando somente a componente data ele podera fazer essas alterações.
 
 ```
 const CarDataBebi = [
     {
       id: 1,
       name: 'Café',
-      description: 'Descrição.',
       price: 4.99,
     },
     {
       id: 2,
       name: 'Frapuccino',
-      description: 'Descrição..',
       price: 9.99,
     },....
 ```
