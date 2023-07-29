@@ -1,21 +1,21 @@
 const CarDataSalg = [
     {
       id: 1,
-      name: 'Salgado',
+      name: 'Coxinha',
       description: 'Descrição.',
-      price: 15.99,
+      price: 8.49,
     },
     {
       id: 2,
-      name: 'Café caro',
+      name: 'Empada',
       description: 'Descrição..',
-      price: 25.99,
+      price: 5.65,
     },
     {
       id: 3,
-      name: 'Leite com café',
+      name: 'Kibe',
       description: 'Descrição...',
-      price: 12.99,
+      price:8.99,
     },
   ];
   

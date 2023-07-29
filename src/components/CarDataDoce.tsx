@@ -1,21 +1,21 @@
 const CarDataDoce = [
     {
       id: 1,
-      name: 'DOCE',
+      name: 'Bolo',
       description: 'Descrição.',
-      price: 15.99,
+      price: 8.49,
     },
     {
       id: 2,
-      name: 'Café caro',
+      name: 'Brigadeiro',
       description: 'Descrição..',
-      price: 25.99,
+      price: 5.99,
     },
     {
       id: 3,
-      name: 'Leite com café',
+      name: 'Torta de Limão',
       description: 'Descrição...',
-      price: 12.99,
+      price: 9.99,
     },
   ];
   
