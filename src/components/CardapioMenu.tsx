@@ -7,15 +7,15 @@ import CarDataSalg from './CarDataSalg';
 const CardapioD = () => {
   return (
     <>
-    <div className='flex text-white bg-marromedio justify-between mx-8 items-center gap-x-32'>
+    <div className='flex text-white sm:flex-row bg-marromedio justify-between mx-8 items-center gap-x-32'>
     <div>
-      <h2 className='text-bege text-lg text-left'>Bebidas:</h2>
+      <h2 className='text-bege sm:flex-row text-lg text-left'>Bebidas:</h2>
       {CarDataBebi.map((item) => (
         <MenuItem key={item.id} item={item} />
       ))}
     </div>
     <div>
-        <h2 className='text-bege text-lg text-center'>Doces:</h2>
+        <h2 className='text-bege sm:flex-row text-lg text-center'>Doces:</h2>
         {CarDataDoce.map((item) => (
           <MenuItem key={item.id} item={item} />
         ))}

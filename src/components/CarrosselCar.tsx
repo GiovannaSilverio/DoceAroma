@@ -8,23 +8,23 @@ import Carousel from 'react-bootstrap/Carousel';
                   <Carousel.Item>
                       <img className="d-block  w-100" src="img_cardapio/cafecarrossel.png" alt="cardapio da aroma doce" />
                       <Carousel.Caption>
-                      <h3>TESTEzada</h3>
-                      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                      <h3>Cafés para viagem</h3>
+                      <p>Peça o seu para retirada.</p>
                       </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
-                      <img className="d-block  w-100" src="frente.jpg" alt="" />
+                      <img className="d-block  w-100" src="bolo.jpg" alt="" />
                       <Carousel.Caption>
-                      <h3>Second slide label</h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                      <h3>Bolos</h3>
+                      <p>Temos varios opções de bolos.</p>
                       </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
                       <img className="d-block  w-100" src="cardapio.jpg" alt="" />
                       <Carousel.Caption>
-                      <h3>Third slide label</h3>
+                      <h3>Cardapio</h3>
                       <p>
-                          Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                          Sempre atualizado para você ficar sabendo das novidades.
                       </p>
                       </Carousel.Caption>
                   </Carousel.Item>
