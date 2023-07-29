@@ -17,6 +17,12 @@ const CarDataBebi = [
       description: 'Descrição...',
       price: 5.99,
     },
+    {
+      id: 4,
+      name: 'Leite',
+      description: 'Descrição...',
+      price: 5.99,
+    },
   ];
   
   export default CarDataBebi;
