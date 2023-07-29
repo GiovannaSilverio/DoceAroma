@@ -26,7 +26,7 @@ Além disso, a inserção do Iframe do google maps também foi um pouco complexa
 
 ## CARDAPIO:
 A pagina do Cardapio foi pensada como a pagina de um produto a ser atualizado por um admistrador da pagina que não tenha conhecimento em criação de site, foi separado em Datas(Bebidas, Doces, Salgados) para facilitar o administrador inserir ou remover, atualizar preço de forma simples, acessando somente a componente data ele podera fazer essas alterações.
-
+'''
 const CarDataBebi = [
     {
       id: 1,
@@ -40,7 +40,7 @@ const CarDataBebi = [
       description: 'Descrição..',
       price: 9.99,
     },....
-
+'''
 ## EXTRAS:
 * Também elaboramos uma logotipo para o projeto utilizando da ferramenta Adobe Illustrator e alguns mockups para utilização no carrossel de imagens. Segue abaixo algumas imagens:
 
