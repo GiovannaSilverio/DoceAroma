@@ -1,38 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img src="public/cafecarrossel.png" height="500px" width="100%">
 
-## Getting Started
 
-First, run the development server:
+<h1 align="center">DOCE AROMA</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## SOBRE
+Esse projeto foi desenvolvido pensando na criação de uma pagina para uma cafeteria chamada Doce Aroma, que é um negócio que une a experiencia de café + livraria.
+Pensando nisso desenvolvemos este site, que conta com 4 paginas : Home, Sobre, Cardápio e Contato .
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="public/desktop.jpg">
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## COMO INSTALAR ?
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+* Dê um git clone em uma pasta em seu computador e digite no terminal o seguinte comando : npm install next
+* Após isso digite no terminal : npm run dev
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## TECNOLOGIAS USADAS:
+* React
+* Bootstrap
+* Tailwind
 
-## Learn More
+## DIFICULDADES NO DESENVOLVIMENTO:
+Uma das dificuldades encontradas elaborando este projeto foi a instalação do bootstrap no reac para a inserção do carrossel de imagens, o que acabou sendo resolvido com pesquisas e lidas em documentação
+Além disso, a inserção do iframe do google maps também foi um pouco complexa mas da mesma forma que foi resolvida a questão do bootstrap também foi resolvida a do bootstrap.
 
-To learn more about Next.js, take a look at the following resources:
+## EXTRAS:
+* Também elaboramos uma logotipo para o projeto utilizando da ferramenta Adobe Illustrator e alguns mockups para utilização no carrossel de imagens. Segue abaixo algumas imagens:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="public/frente.jpg" height="300px" width="400px">
+<img src="public/cardapio.jpg" height="300px" width="400px">
