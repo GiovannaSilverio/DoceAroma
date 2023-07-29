@@ -32,6 +32,7 @@ import Carousel from 'react-bootstrap/Carousel';
             </div>
           );
         }
+
         
         export default UncontrolledExample;
         
