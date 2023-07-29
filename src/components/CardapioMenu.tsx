@@ -21,7 +21,7 @@ const CardapioD = () => {
         ))}
    </div>      
    <div>
-        <h2 className='text-bege text-lg w-full text-right'>Salgado:</h2>
+        <h2 className='text-bege text-lg w-full text-right'>Salgados:</h2>
         {CarDataSalg.map((item) => (
           <MenuItem key={item.id} item={item} />
         ))}
