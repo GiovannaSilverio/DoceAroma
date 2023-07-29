@@ -22,7 +22,7 @@ Pensando nisso desenvolvemos este site, que conta com 4 paginas : Home, Sobre, C
 
 ## DIFICULDADES NO DESENVOLVIMENTO:
 Uma das dificuldades encontradas elaborando este projeto foi a instalação do bootstrap no react para a inserção do carrossel de imagens, o que acabou sendo resolvido com pesquisas e lidas em documentação.
-Além disso, a inserção do Iframe do google maps também foi um pouco complexa mas da mesma forma que foi resolvida a questão do bootstrap também foi resolvida a do bootstrap.
+Além disso, a inserção do Iframe do google maps também foi um pouco complexa mas da mesma forma que foi resolvida a questão do bootstrap também foi resolvida a do Iframe.
 
 ## CARDAPIO:
 A pagina do Cardapio foi pensada como a pagina de um produto a ser atualizado por um admistrador da cafetria que não tenha conhecimento em criação de site, foi separado em Datas(Bebidas, Doces, Salgados) para facilitar o administrador inserir ou remover, atualizar preço de forma simples, acessando somente a componente data ele podera fazer essas alterações.
